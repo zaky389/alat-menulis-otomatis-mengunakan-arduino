@@ -1,0 +1,6 @@
+# Robot Penulis AI - Requirements
+# ================================
+# Hanya pyserial yang wajib (untuk komunikasi Arduino)
+# Tkinter sudah bawaan Python
+
+pyserial>=3.5
